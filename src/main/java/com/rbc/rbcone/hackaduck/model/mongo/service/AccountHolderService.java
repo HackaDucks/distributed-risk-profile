@@ -19,7 +19,7 @@ public class AccountHolderService {
 
     public List<Relation> findAccountHolderByFundIdAndRegion(String fundId, final String region) {
 
-        Fund fund =  fundRepository.findByFundIdAndRelations_Region(fundId, region);
+        Fund fund =  fundRepository.findByFundIdAndRelations_ResidenceCode(fundId, region);
         List<Relation> relationsList =
                 fund.getRelations().stream().filter(r -> r.getResidenceCode().equals(region))
                 .sorted().collect(Collectors.toList());
