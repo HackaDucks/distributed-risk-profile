@@ -19,18 +19,12 @@ public class RelationService {
 
     public List<Relation> findRelationByFundIdAndResidenceCode(String fundId, final String residenceCode) {
 
-        Fund fund = fundRepository.findByRelations_ResidenceCode("LU").get(0);
+        Fund fund = fundRepository.findByFundIdAndRelationsResidenceCode(fundId, "LU");
 
-        //Fund fund =  fundRepository.findByFundIdAndRelations_ResidenceCode(fundId, residenceCode);
         List<Relation> relationsList =
                 fund.getRelations().stream().filter(r -> r.getResidenceCode().equals(residenceCode))
                 .sorted().collect(Collectors.toList());
 
-        for (Relation relation : fund.getRelations()) {
-            if (relation.getResidenceCode().equals(residenceCode)) {
-                relationsList.add(relation);
-            }
-        }
         return relationsList;
     }
 

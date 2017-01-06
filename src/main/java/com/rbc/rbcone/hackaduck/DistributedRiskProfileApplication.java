@@ -7,6 +7,7 @@ import javax.annotation.PostConstruct;
 
 import com.rbc.rbcone.hackaduck.model.mongo.entity.Fund;
 import com.rbc.rbcone.hackaduck.model.mongo.entity.Relation;
+import com.rbc.rbcone.hackaduck.model.mongo.repository.FundRepository;
 import com.rbc.rbcone.hackaduck.model.mongo.service.RelationService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -25,7 +26,10 @@ public class DistributedRiskProfileApplication {
 	@Autowired
 	private RelationService relationService;
 
-	public static void main(String[] args) {
+    @Autowired
+    private FundRepository fundRepository;
+
+    public static void main(String[] args) {
 		SpringApplication.run(DistributedRiskProfileApplication.class, args);
 	}
 	
@@ -37,6 +41,8 @@ public class DistributedRiskProfileApplication {
 		
 		TypeReference<List<Fund>> fundsRef = new TypeReference<List<Fund>>() {};
 		List<Fund> funds = mapper.readValue(this.getClass().getResourceAsStream("/jsonfiles/DataImport.json"), fundsRef);
+
+        fundRepository.save(funds);
 
         List<Relation> relations = relationService.findRelationByFundIdAndResidenceCode(funds.get(0).getFundId(), "LU");
 

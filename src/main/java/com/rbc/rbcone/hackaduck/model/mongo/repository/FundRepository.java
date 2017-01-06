@@ -9,8 +9,8 @@ public interface FundRepository extends MongoRepository<Fund, String> {
 
     List<Fund> findByDomicilation(String domicilation);
 
-    List<Fund> findByRelations_ResidenceCode(String region);
+    List<Fund> findByRelationsResidenceCode(String residenceCode);
 
-    Fund findByFundIdAndRelations_ResidenceCode(String fundId, String residenceCode);
+    Fund findByFundIdAndRelationsResidenceCode(String fundId, String residenceCode);
 
 }
