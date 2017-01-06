@@ -12,20 +12,22 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 @Service
-public class AccountHolderService {
+public class RelationService {
 
     @Autowired
     FundRepository fundRepository;
 
-    public List<Relation> findAccountHolderByFundIdAndRegion(String fundId, final String region) {
+    public List<Relation> findRelationByFundIdAndResidenceCode(String fundId, final String residenceCode) {
 
-        Fund fund =  fundRepository.findByFundIdAndRelations_ResidenceCode(fundId, region);
+        Fund fund = fundRepository.findByRelations_ResidenceCode("LU").get(0);
+
+        //Fund fund =  fundRepository.findByFundIdAndRelations_ResidenceCode(fundId, residenceCode);
         List<Relation> relationsList =
-                fund.getRelations().stream().filter(r -> r.getResidenceCode().equals(region))
+                fund.getRelations().stream().filter(r -> r.getResidenceCode().equals(residenceCode))
                 .sorted().collect(Collectors.toList());
 
         for (Relation relation : fund.getRelations()) {
-            if (relation.getResidenceCode().equals(region)) {
+            if (relation.getResidenceCode().equals(residenceCode)) {
                 relationsList.add(relation);
             }
         }

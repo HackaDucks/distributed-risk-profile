@@ -6,7 +6,8 @@ import java.util.List;
 import javax.annotation.PostConstruct;
 
 import com.rbc.rbcone.hackaduck.model.mongo.entity.Fund;
-import com.rbc.rbcone.hackaduck.model.mongo.service.AccountHolderService;
+import com.rbc.rbcone.hackaduck.model.mongo.entity.Relation;
+import com.rbc.rbcone.hackaduck.model.mongo.service.RelationService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -22,10 +23,8 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 public class DistributedRiskProfileApplication {
 
 	@Autowired
-	private AccountHolderService accountHolderService;
-		
-	private static final Logger log = LoggerFactory.getLogger(DistributedRiskProfileApplication.class);
-	
+	private RelationService relationService;
+
 	public static void main(String[] args) {
 		SpringApplication.run(DistributedRiskProfileApplication.class, args);
 	}
@@ -39,7 +38,11 @@ public class DistributedRiskProfileApplication {
 		TypeReference<List<Fund>> fundsRef = new TypeReference<List<Fund>>() {};
 		List<Fund> funds = mapper.readValue(this.getClass().getResourceAsStream("/jsonfiles/DataImport.json"), fundsRef);
 
-        funds.get(0).toString();
+        List<Relation> relations = relationService.findRelationByFundIdAndResidenceCode(funds.get(0).getFundId(), "LU");
+
+        for (Relation r : relations) {
+            System.out.println(r);
+        }
 	}
 	
 }

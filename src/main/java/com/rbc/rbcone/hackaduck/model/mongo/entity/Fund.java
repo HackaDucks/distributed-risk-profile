@@ -27,6 +27,9 @@ public class Fund {
     @JsonProperty("fc-lf-name")
     String name;
 
+    @JsonProperty("fc-region-id")
+    String region;
+
     @JsonProperty("ttPromotor")
     Promoter promoter;
 
