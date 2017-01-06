@@ -1,0 +1,2796 @@
+{
+  "Funds": [
+    {
+      "fundId": "586cfe83f15c1b072c166f03",
+      "domicialition": "LU",
+      "name": "FundName1",
+      "Promoter": {
+        "saraRegion": "algi",
+        "name": "Name of teh region"
+      },
+      "AccountHolders": [
+        {
+          "residenceCode": "LI",
+          "region" : "EU",
+          "name": "BPName3",
+          "type": "Other Financial Institutions",
+          "natue": "Legal",
+          "distributionType": "Segregated",
+          "rad": "High",
+          "assetValue": 96114,
+          "relationType": "Distributor",
+          "accountNum": 31,
+          "Peps": [
+            {
+              "firtName": "Arnas",
+              "lastName": "Dussoye",
+              "role": "ShareHolder",
+              "nationality": "UK",
+              "country": "LU"
+            },
+            {
+              "firtName": "Dimitri",
+              "lastName": "Devriendt",
+              "role": "ShareHolder",
+              "nationality": "LU",
+              "country": "US"
+            },
+            {
+              "firtName": "Nicolas",
+              "lastName": "Fanchini",
+              "role": "Administrator",
+              "nationality": "US",
+              "country": "LU"
+            },
+            {
+              "firtName": "Vlad",
+              "lastName": "Kasparas",
+              "role": "ShareHolder",
+              "nationality": "LU",
+              "country": "US"
+            },
+            {
+              "firtName": "Sunil",
+              "lastName": "Devriendt",
+              "role": "BoardMember",
+              "nationality": "US",
+              "country": "FR"
+            }
+          ]
+        },
+        {
+          "residenceCode": "US",
+          "name": "BPName5",
+          "type": "Bank",
+          "natue": "Legal",
+          "distributionType": "Omnibus",
+          "rad": "Medium",
+          "assetValue": 174030,
+          "relationType": "Investor",
+          "accountNum": 16,
+          "Peps": [
+            {
+              "firtName": "Antoine",
+              "lastName": "Devriendt",
+              "role": "ShareHolder",
+              "nationality": "UKR",
+              "country": "US"
+            },
+            {
+              "firtName": "Sunil",
+              "lastName": "Fanchini",
+              "role": "Administrator",
+              "nationality": "LI",
+              "country": "LU"
+            },
+            {
+              "firtName": "Micheal",
+              "lastName": "Bour",
+              "role": "BoardMember",
+              "nationality": "UKR",
+              "country": "UKR"
+            },
+            {
+              "firtName": "Dimitri",
+              "lastName": "Kasparas",
+              "role": "BoardMember",
+              "nationality": "LU",
+              "country": "LI"
+            },
+            {
+              "firtName": "Arnas",
+              "lastName": "Bour",
+              "role": "Administrator",
+              "nationality": "LI",
+              "country": "LI"
+            }
+          ]
+        },
+        {
+          "residenceCode": "FR",
+          "name": "BPName3",
+          "type": "Bank",
+          "natue": "Legal",
+          "distributionType": "Segregated",
+          "rad": "Low",
+          "assetValue": 387665,
+          "relationType": "Investor",
+          "accountNum": 40,
+          "Peps": [
+            {
+              "firtName": "Arnas",
+              "lastName": "Bour",
+              "role": "BoardMember",
+              "nationality": "LU",
+              "country": "UKR"
+            },
+            {
+              "pepsId": "586cfe83e4a6455a928be909",
+              "firtName": "Nicolas",
+              "lastName": "Dussoye",
+              "role": "ShareHolder",
+              "nationality": "LI",
+              "country": "UK"
+            },
+            {
+              "pepsId": "586cfe834acce10da3561231",
+              "firtName": "Antoine",
+              "lastName": "Devriendt",
+              "role": "BoardMember",
+              "nationality": "FR",
+              "country": "LI"
+            },
+            {
+              "pepsId": "586cfe83a67b0c5e88f27833",
+              "firtName": "Arnas",
+              "lastName": "Kasparas",
+              "role": "Administrator",
+              "nationality": "LI",
+              "country": "FR"
+            },
+            {
+              "pepsId": "586cfe83d2973764350a8635",
+              "firtName": "Nicolas",
+              "lastName": "Bour",
+              "role": "ShareHolder",
+              "nationality": "FR",
+              "country": "LU"
+            }
+          ]
+        },
+        {
+          "accountHolderId": "586cfe83b47fe7ecb51c04bd",
+          "residenceCode": "UK",
+          "name": "BPName4",
+          "type": "Other Financial Institutions",
+          "natue": "Legal",
+          "distributionType": "Segregated",
+          "rad": "Medium",
+          "assetValue": 40551,
+          "relationType": "Investor",
+          "accountNum": 8,
+          "Peps": [
+            {
+              "pepsId": "586cfe8305854efc27faf791",
+              "firtName": "Arnas",
+              "lastName": "Devriendt",
+              "role": "ShareHolder",
+              "nationality": "FR",
+              "country": "FR"
+            },
+            {
+              "pepsId": "586cfe8383dc3b49eb62ea2a",
+              "firtName": "Micheal",
+              "lastName": "Devriendt",
+              "role": "ShareHolder",
+              "nationality": "FR",
+              "country": "UK"
+            },
+            {
+              "pepsId": "586cfe8399c95de2f9ea5d2f",
+              "firtName": "Nicolas",
+              "lastName": "Tkachuk",
+              "role": "ShareHolder",
+              "nationality": "LU",
+              "country": "LI"
+            },
+            {
+              "pepsId": "586cfe83856304e0e1a61c4a",
+              "firtName": "Antoine",
+              "lastName": "Bour",
+              "role": "ShareHolder",
+              "nationality": "US",
+              "country": "UK"
+            },
+            {
+              "pepsId": "586cfe835faca0975da4b248",
+              "firtName": "Nicolas",
+              "lastName": "Devriendt",
+              "role": "ShareHolder",
+              "nationality": "LU",
+              "country": "US"
+            }
+          ]
+        },
+        {
+          "accountHolderId": "586cfe836d9e895d2ccbb691",
+          "residenceCode": "LI",
+          "name": "BPName4",
+          "type": "Other Financial Institutions",
+          "natue": "Legal",
+          "distributionType": "Segregated",
+          "rad": "Medium",
+          "assetValue": 246137,
+          "relationType": "Investor",
+          "accountNum": 38,
+          "Peps": [
+            {
+              "pepsId": "586cfe83ba9b4630261255c1",
+              "firtName": "Sunil",
+              "lastName": "Devriendt",
+              "role": "Administrator",
+              "nationality": "US",
+              "country": "UK"
+            },
+            {
+              "pepsId": "586cfe830d022747b31dad0e",
+              "firtName": "Micheal",
+              "lastName": "Bour",
+              "role": "BoardMember",
+              "nationality": "FR",
+              "country": "US"
+            },
+            {
+              "pepsId": "586cfe83f7f2939d58617dad",
+              "firtName": "Antoine",
+              "lastName": "Bour",
+              "role": "Administrator",
+              "nationality": "UK",
+              "country": "LI"
+            },
+            {
+              "pepsId": "586cfe8331dec65b31344458",
+              "firtName": "Micheal",
+              "lastName": "Tkachuk",
+              "role": "BoardMember",
+              "nationality": "UKR",
+              "country": "US"
+            },
+            {
+              "pepsId": "586cfe83251c7e416aa7250d",
+              "firtName": "Nicolas",
+              "lastName": "Dussoye",
+              "role": "BoardMember",
+              "nationality": "LI",
+              "country": "FR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fundId": "586cfe83ad2c6801cfdb0084",
+      "domicialition": "US",
+      "name": "FundName2",
+      "Promoter": {
+        "saraRegion": "algi",
+        "name": "Name of teh region"
+      },
+      "AccountHolders": [
+        {
+          "accountHolderId": "586cfe8374bdd76483680480",
+          "residenceCode": "FR",
+          "name": "BPName2",
+          "type": "Bank",
+          "natue": "Legal",
+          "distributionType": "Segregated",
+          "rad": "Low",
+          "assetValue": 334912,
+          "relationType": "Investor",
+          "accountNum": 3,
+          "Peps": [
+            {
+              "pepsId": "586cfe83753f805479455330",
+              "firtName": "Vlad",
+              "lastName": "Dussoye",
+              "role": "BoardMember",
+              "nationality": "US",
+              "country": "LU"
+            },
+            {
+              "pepsId": "586cfe833a8a60083e52c78a",
+              "firtName": "Antoine",
+              "lastName": "Dussoye",
+              "role": "BoardMember",
+              "nationality": "LU",
+              "country": "LI"
+            },
+            {
+              "pepsId": "586cfe83285b8da9fd7c52ff",
+              "firtName": "Sunil",
+              "lastName": "Dussoye",
+              "role": "BoardMember",
+              "nationality": "UKR",
+              "country": "UK"
+            },
+            {
+              "pepsId": "586cfe836818eb6bdea5f1eb",
+              "firtName": "Nicolas",
+              "lastName": "Bour",
+              "role": "ShareHolder",
+              "nationality": "UK",
+              "country": "UK"
+            },
+            {
+              "pepsId": "586cfe83e11fb5f6c80ae00c",
+              "firtName": "Arnas",
+              "lastName": "Kasparas",
+              "role": "ShareHolder",
+              "nationality": "UKR",
+              "country": "LI"
+            }
+          ]
+        },
+        {
+          "accountHolderId": "586cfe83ac80307d0c8a4d20",
+          "residenceCode": "LI",
+          "name": "BPName3",
+          "type": "Other Financial Institutions",
+          "natue": "Natural",
+          "distributionType": "Segregated",
+          "rad": "Medium",
+          "assetValue": 371894,
+          "relationType": "Investor",
+          "accountNum": 26,
+          "Peps": [
+            {
+              "pepsId": "586cfe8354c69490615ed7ce",
+              "firtName": "Micheal",
+              "lastName": "Devriendt",
+              "role": "BoardMember",
+              "nationality": "US",
+              "country": "UKR"
+            },
+            {
+              "pepsId": "586cfe83d69c37e4f3d4fbb2",
+              "firtName": "Dimitri",
+              "lastName": "Tkachuk",
+              "role": "BoardMember",
+              "nationality": "FR",
+              "country": "UK"
+            },
+            {
+              "pepsId": "586cfe83ea300c5c3503ad91",
+              "firtName": "Antoine",
+              "lastName": "Tkachuk",
+              "role": "BoardMember",
+              "nationality": "FR",
+              "country": "FR"
+            },
+            {
+              "pepsId": "586cfe831fea677502634457",
+              "firtName": "Nicolas",
+              "lastName": "Devriendt",
+              "role": "Administrator",
+              "nationality": "FR",
+              "country": "LU"
+            },
+            {
+              "pepsId": "586cfe83217f36404f8284ad",
+              "firtName": "Antoine",
+              "lastName": "Bour",
+              "role": "BoardMember",
+              "nationality": "US",
+              "country": "LU"
+            }
+          ]
+        },
+        {
+          "accountHolderId": "586cfe83804405d9b73759d3",
+          "residenceCode": "UKR",
+          "name": "BPName1",
+          "type": "Bank",
+          "natue": "Legal",
+          "distributionType": "Segregated",
+          "rad": "Low",
+          "assetValue": 132822,
+          "relationType": "Distributor",
+          "accountNum": 15,
+          "Peps": [
+            {
+              "pepsId": "586cfe831f2dce9041cc264e",
+              "firtName": "Nicolas",
+              "lastName": "Kasparas",
+              "role": "Administrator",
+              "nationality": "FR",
+              "country": "LU"
+            },
+            {
+              "pepsId": "586cfe83cc6a4782ede429b3",
+              "firtName": "Nicolas",
+              "lastName": "Fanchini",
+              "role": "ShareHolder",
+              "nationality": "FR",
+              "country": "UKR"
+            },
+            {
+              "pepsId": "586cfe832e4a0d03ce6dc66f",
+              "firtName": "Nicolas",
+              "lastName": "Devriendt",
+              "role": "Administrator",
+              "nationality": "LI",
+              "country": "LI"
+            },
+            {
+              "pepsId": "586cfe83a4bcf2adb069dfe6",
+              "firtName": "Arnas",
+              "lastName": "Kasparas",
+              "role": "Administrator",
+              "nationality": "LU",
+              "country": "US"
+            },
+            {
+              "pepsId": "586cfe8324b821b37a77da98",
+              "firtName": "Sunil",
+              "lastName": "Dussoye",
+              "role": "ShareHolder",
+              "nationality": "UKR",
+              "country": "LI"
+            }
+          ]
+        },
+        {
+          "accountHolderId": "586cfe83a3863e92968e0495",
+          "residenceCode": "LI",
+          "name": "BPName1",
+          "type": "Other Financial Institutions",
+          "natue": "Legal",
+          "distributionType": "Segregated",
+          "rad": "High",
+          "assetValue": 363572,
+          "relationType": "Investor",
+          "accountNum": 31,
+          "Peps": [
+            {
+              "pepsId": "586cfe83974fb590309f78cd",
+              "firtName": "Sunil",
+              "lastName": "Devriendt",
+              "role": "Administrator",
+              "nationality": "LI",
+              "country": "LI"
+            },
+            {
+              "pepsId": "586cfe83d0b430c894e6ccbc",
+              "firtName": "Vlad",
+              "lastName": "Schwinn",
+              "role": "ShareHolder",
+              "nationality": "US",
+              "country": "UKR"
+            },
+            {
+              "pepsId": "586cfe83c108ecb7f4fa9bf2",
+              "firtName": "Nicolas",
+              "lastName": "Kasparas",
+              "role": "ShareHolder",
+              "nationality": "UK",
+              "country": "LU"
+            },
+            {
+              "pepsId": "586cfe831713bb910b83f5e7",
+              "firtName": "Arnas",
+              "lastName": "Bour",
+              "role": "BoardMember",
+              "nationality": "US",
+              "country": "LI"
+            },
+            {
+              "pepsId": "586cfe834104391f8f849c15",
+              "firtName": "Nicolas",
+              "lastName": "Fanchini",
+              "role": "ShareHolder",
+              "nationality": "UK",
+              "country": "LU"
+            }
+          ]
+        },
+        {
+          "accountHolderId": "586cfe83887198445bb570f7",
+          "residenceCode": "FR",
+          "name": "BPName5",
+          "type": "Bank",
+          "natue": "Natural",
+          "distributionType": "Omnibus",
+          "rad": "High",
+          "assetValue": 22547,
+          "relationType": "Investor",
+          "accountNum": 7,
+          "Peps": [
+            {
+              "pepsId": "586cfe833a407685fd63101e",
+              "firtName": "Dimitri",
+              "lastName": "Bour",
+              "role": "ShareHolder",
+              "nationality": "UK",
+              "country": "UKR"
+            },
+            {
+              "pepsId": "586cfe83ed053047a364108e",
+              "firtName": "Sunil",
+              "lastName": "Kasparas",
+              "role": "ShareHolder",
+              "nationality": "US",
+              "country": "FR"
+            },
+            {
+              "pepsId": "586cfe83eabdff8824496a27",
+              "firtName": "Sunil",
+              "lastName": "Schwinn",
+              "role": "ShareHolder",
+              "nationality": "LI",
+              "country": "UK"
+            },
+            {
+              "pepsId": "586cfe835e58db0f58dac5d2",
+              "firtName": "Sunil",
+              "lastName": "Fanchini",
+              "role": "BoardMember",
+              "nationality": "FR",
+              "country": "UKR"
+            },
+            {
+              "pepsId": "586cfe83b7a3c5c35ea753f3",
+              "firtName": "Arnas",
+              "lastName": "Kasparas",
+              "role": "Administrator",
+              "nationality": "LU",
+              "country": "FR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fundId": "586cfe837bbcfe33562eb3d5",
+      "domicialition": "UK",
+      "name": "FundName6",
+      "Promoter": {
+        "saraRegion": "algi",
+        "name": "Name of teh region"
+      },
+      "AccountHolders": [
+        {
+          "accountHolderId": "586cfe8390673faf7072544e",
+          "residenceCode": "LI",
+          "name": "BPName5",
+          "type": "Bank",
+          "natue": "Natural",
+          "distributionType": "Omnibus",
+          "rad": "Medium",
+          "assetValue": 197234,
+          "relationType": "Investor",
+          "accountNum": 13,
+          "Peps": [
+            {
+              "pepsId": "586cfe83a7c3dd58ac5552e9",
+              "firtName": "Antoine",
+              "lastName": "Schwinn",
+              "role": "BoardMember",
+              "nationality": "UK",
+              "country": "UK"
+            },
+            {
+              "pepsId": "586cfe83867abdffea213475",
+              "firtName": "Vlad",
+              "lastName": "Fanchini",
+              "role": "Administrator",
+              "nationality": "UK",
+              "country": "LU"
+            },
+            {
+              "pepsId": "586cfe8360757756428abba8",
+              "firtName": "Vlad",
+              "lastName": "Fanchini",
+              "role": "BoardMember",
+              "nationality": "FR",
+              "country": "UKR"
+            },
+            {
+              "pepsId": "586cfe835c53a3558c274373",
+              "firtName": "Antoine",
+              "lastName": "Devriendt",
+              "role": "ShareHolder",
+              "nationality": "LU",
+              "country": "UKR"
+            },
+            {
+              "pepsId": "586cfe834c9124ebcdaf20f8",
+              "firtName": "Antoine",
+              "lastName": "Devriendt",
+              "role": "Administrator",
+              "nationality": "US",
+              "country": "FR"
+            }
+          ]
+        },
+        {
+          "accountHolderId": "586cfe832d5b9124ba7b622a",
+          "residenceCode": "LU",
+          "name": "BPName6",
+          "type": "Other Financial Institutions",
+          "natue": "Natural",
+          "distributionType": "Segregated",
+          "rad": "Low",
+          "assetValue": 251897,
+          "relationType": "Distributor",
+          "accountNum": 29,
+          "Peps": [
+            {
+              "pepsId": "586cfe83cd2bfb7d24d66bb0",
+              "firtName": "Arnas",
+              "lastName": "Dussoye",
+              "role": "ShareHolder",
+              "nationality": "FR",
+              "country": "US"
+            },
+            {
+              "pepsId": "586cfe836d7029442cc42b11",
+              "firtName": "Antoine",
+              "lastName": "Bour",
+              "role": "Administrator",
+              "nationality": "FR",
+              "country": "FR"
+            },
+            {
+              "pepsId": "586cfe83d84019a64c50c59a",
+              "firtName": "Nicolas",
+              "lastName": "Fanchini",
+              "role": "ShareHolder",
+              "nationality": "LI",
+              "country": "UKR"
+            },
+            {
+              "pepsId": "586cfe83284868963e4d63db",
+              "firtName": "Dimitri",
+              "lastName": "Dussoye",
+              "role": "BoardMember",
+              "nationality": "UKR",
+              "country": "FR"
+            },
+            {
+              "pepsId": "586cfe838f216755599ffe40",
+              "firtName": "Sunil",
+              "lastName": "Dussoye",
+              "role": "ShareHolder",
+              "nationality": "UK",
+              "country": "LI"
+            }
+          ]
+        },
+        {
+          "accountHolderId": "586cfe83eb77cdae8021881e",
+          "residenceCode": "LU",
+          "name": "BPName6",
+          "type": "Bank",
+          "natue": "Natural",
+          "distributionType": "Segregated",
+          "rad": "Low",
+          "assetValue": 283469,
+          "relationType": "Investor",
+          "accountNum": 10,
+          "Peps": [
+            {
+              "pepsId": "586cfe8343ad300450f81bbe",
+              "firtName": "Sunil",
+              "lastName": "Fanchini",
+              "role": "ShareHolder",
+              "nationality": "LI",
+              "country": "US"
+            },
+            {
+              "pepsId": "586cfe83d91980fb3c93313c",
+              "firtName": "Dimitri",
+              "lastName": "Fanchini",
+              "role": "Administrator",
+              "nationality": "LU",
+              "country": "UK"
+            },
+            {
+              "pepsId": "586cfe835d213121c5fa328b",
+              "firtName": "Antoine",
+              "lastName": "Bour",
+              "role": "Administrator",
+              "nationality": "LU",
+              "country": "LU"
+            },
+            {
+              "pepsId": "586cfe83f1f33da444b368fc",
+              "firtName": "Nicolas",
+              "lastName": "Bour",
+              "role": "BoardMember",
+              "nationality": "LU",
+              "country": "US"
+            },
+            {
+              "pepsId": "586cfe83d053505a41bf845e",
+              "firtName": "Dimitri",
+              "lastName": "Bour",
+              "role": "Administrator",
+              "nationality": "US",
+              "country": "LU"
+            }
+          ]
+        },
+        {
+          "accountHolderId": "586cfe830e9b83b0d210d17a",
+          "residenceCode": "LI",
+          "name": "BPName3",
+          "type": "Other Financial Institutions",
+          "natue": "Legal",
+          "distributionType": "Segregated",
+          "rad": "Low",
+          "assetValue": 392597,
+          "relationType": "Distributor",
+          "accountNum": 1,
+          "Peps": [
+            {
+              "pepsId": "586cfe834104546cbc4bd6d9",
+              "firtName": "Sunil",
+              "lastName": "Dussoye",
+              "role": "BoardMember",
+              "nationality": "UKR",
+              "country": "US"
+            },
+            {
+              "pepsId": "586cfe83ddd6f30fc74fbda0",
+              "firtName": "Arnas",
+              "lastName": "Fanchini",
+              "role": "Administrator",
+              "nationality": "FR",
+              "country": "UKR"
+            },
+            {
+              "pepsId": "586cfe837cfe24e8d55c727c",
+              "firtName": "Vlad",
+              "lastName": "Bour",
+              "role": "Administrator",
+              "nationality": "LI",
+              "country": "FR"
+            },
+            {
+              "pepsId": "586cfe835178b2fa0cb98769",
+              "firtName": "Vlad",
+              "lastName": "Devriendt",
+              "role": "BoardMember",
+              "nationality": "UKR",
+              "country": "LU"
+            },
+            {
+              "pepsId": "586cfe83f3cebff57fce22ee",
+              "firtName": "Vlad",
+              "lastName": "Schwinn",
+              "role": "ShareHolder",
+              "nationality": "LU",
+              "country": "LI"
+            }
+          ]
+        },
+        {
+          "accountHolderId": "586cfe832ce1bdf1580dc072",
+          "residenceCode": "LU",
+          "name": "BPName3",
+          "type": "Bank",
+          "natue": "Natural",
+          "distributionType": "Omnibus",
+          "rad": "Medium",
+          "assetValue": 130121,
+          "relationType": "Investor",
+          "accountNum": 8,
+          "Peps": [
+            {
+              "pepsId": "586cfe839df3088540164b29",
+              "firtName": "Arnas",
+              "lastName": "Fanchini",
+              "role": "ShareHolder",
+              "nationality": "UK",
+              "country": "FR"
+            },
+            {
+              "pepsId": "586cfe830889eeb2fac82137",
+              "firtName": "Nicolas",
+              "lastName": "Schwinn",
+              "role": "BoardMember",
+              "nationality": "FR",
+              "country": "LI"
+            },
+            {
+              "pepsId": "586cfe8330637453254aca80",
+              "firtName": "Micheal",
+              "lastName": "Kasparas",
+              "role": "Administrator",
+              "nationality": "UK",
+              "country": "LI"
+            },
+            {
+              "pepsId": "586cfe838d3d65f62e25e83b",
+              "firtName": "Nicolas",
+              "lastName": "Bour",
+              "role": "BoardMember",
+              "nationality": "UKR",
+              "country": "FR"
+            },
+            {
+              "pepsId": "586cfe83b45a711aae391da5",
+              "firtName": "Arnas",
+              "lastName": "Bour",
+              "role": "ShareHolder",
+              "nationality": "FR",
+              "country": "FR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fundId": "586cfe836b289a06b09437bd",
+      "domicialition": "UK",
+      "name": "FundName1",
+      "Promoter": {
+        "saraRegion": "algi",
+        "name": "Name of teh region"
+      },
+      "AccountHolders": [
+        {
+          "accountHolderId": "586cfe83ed58d21b9dc0ce75",
+          "residenceCode": "FR",
+          "name": "BPName4",
+          "type": "Bank",
+          "natue": "Legal",
+          "distributionType": "Segregated",
+          "rad": "Medium",
+          "assetValue": 167323,
+          "relationType": "Investor",
+          "accountNum": 19,
+          "Peps": [
+            {
+              "pepsId": "586cfe830c1fdd03365572e8",
+              "firtName": "Arnas",
+              "lastName": "Dussoye",
+              "role": "ShareHolder",
+              "nationality": "US",
+              "country": "UK"
+            },
+            {
+              "pepsId": "586cfe839a1bf9c72679c12b",
+              "firtName": "Vlad",
+              "lastName": "Kasparas",
+              "role": "ShareHolder",
+              "nationality": "UK",
+              "country": "UK"
+            },
+            {
+              "pepsId": "586cfe8356ed5b040ba5be89",
+              "firtName": "Micheal",
+              "lastName": "Schwinn",
+              "role": "Administrator",
+              "nationality": "LI",
+              "country": "UK"
+            },
+            {
+              "pepsId": "586cfe839e6354c96a02330b",
+              "firtName": "Antoine",
+              "lastName": "Tkachuk",
+              "role": "ShareHolder",
+              "nationality": "LU",
+              "country": "LI"
+            },
+            {
+              "pepsId": "586cfe83254f7a23bf419f97",
+              "firtName": "Antoine",
+              "lastName": "Bour",
+              "role": "ShareHolder",
+              "nationality": "LI",
+              "country": "UK"
+            }
+          ]
+        },
+        {
+          "accountHolderId": "586cfe837898f3abc0c2ab0a",
+          "residenceCode": "LI",
+          "name": "BPName3",
+          "type": "Other Financial Institutions",
+          "natue": "Legal",
+          "distributionType": "Omnibus",
+          "rad": "Medium",
+          "assetValue": 63353,
+          "relationType": "Distributor",
+          "accountNum": 31,
+          "Peps": [
+            {
+              "pepsId": "586cfe83509da7435c3c5587",
+              "firtName": "Micheal",
+              "lastName": "Dussoye",
+              "role": "Administrator",
+              "nationality": "UKR",
+              "country": "US"
+            },
+            {
+              "pepsId": "586cfe832c1adbafe15288dc",
+              "firtName": "Vlad",
+              "lastName": "Fanchini",
+              "role": "Administrator",
+              "nationality": "LI",
+              "country": "UKR"
+            },
+            {
+              "pepsId": "586cfe83af660213ce86bbd1",
+              "firtName": "Dimitri",
+              "lastName": "Dussoye",
+              "role": "Administrator",
+              "nationality": "LU",
+              "country": "UK"
+            },
+            {
+              "pepsId": "586cfe83f2671cac55eb3644",
+              "firtName": "Antoine",
+              "lastName": "Bour",
+              "role": "ShareHolder",
+              "nationality": "LU",
+              "country": "LI"
+            },
+            {
+              "pepsId": "586cfe8385b8cd92a20dd6e2",
+              "firtName": "Vlad",
+              "lastName": "Schwinn",
+              "role": "Administrator",
+              "nationality": "FR",
+              "country": "FR"
+            }
+          ]
+        },
+        {
+          "accountHolderId": "586cfe8365621e96cce93546",
+          "residenceCode": "FR",
+          "name": "BPName4",
+          "type": "Other Financial Institutions",
+          "natue": "Legal",
+          "distributionType": "Omnibus",
+          "rad": "Low",
+          "assetValue": 58126,
+          "relationType": "Investor",
+          "accountNum": 32,
+          "Peps": [
+            {
+              "pepsId": "586cfe8390c5e09f46bc9d25",
+              "firtName": "Arnas",
+              "lastName": "Bour",
+              "role": "BoardMember",
+              "nationality": "US",
+              "country": "LU"
+            },
+            {
+              "pepsId": "586cfe830215d53ee1281612",
+              "firtName": "Sunil",
+              "lastName": "Tkachuk",
+              "role": "BoardMember",
+              "nationality": "UKR",
+              "country": "US"
+            },
+            {
+              "pepsId": "586cfe8357a7695a7e894b7a",
+              "firtName": "Arnas",
+              "lastName": "Schwinn",
+              "role": "ShareHolder",
+              "nationality": "UK",
+              "country": "LI"
+            },
+            {
+              "pepsId": "586cfe83330a1de7b7ac6da4",
+              "firtName": "Arnas",
+              "lastName": "Kasparas",
+              "role": "ShareHolder",
+              "nationality": "US",
+              "country": "LI"
+            },
+            {
+              "pepsId": "586cfe83d2f899648984cdac",
+              "firtName": "Vlad",
+              "lastName": "Bour",
+              "role": "ShareHolder",
+              "nationality": "UK",
+              "country": "LI"
+            }
+          ]
+        },
+        {
+          "accountHolderId": "586cfe83eaa8854ea9dc7613",
+          "residenceCode": "US",
+          "name": "BPName4",
+          "type": "Other Financial Institutions",
+          "natue": "Legal",
+          "distributionType": "Omnibus",
+          "rad": "High",
+          "assetValue": 121105,
+          "relationType": "Investor",
+          "accountNum": 18,
+          "Peps": [
+            {
+              "pepsId": "586cfe83aeff8471c4f4ba6b",
+              "firtName": "Vlad",
+              "lastName": "Kasparas",
+              "role": "Administrator",
+              "nationality": "LU",
+              "country": "UKR"
+            },
+            {
+              "pepsId": "586cfe83d5e6267f15407948",
+              "firtName": "Sunil",
+              "lastName": "Fanchini",
+              "role": "Administrator",
+              "nationality": "FR",
+              "country": "LI"
+            },
+            {
+              "pepsId": "586cfe83db90c238848aab67",
+              "firtName": "Dimitri",
+              "lastName": "Devriendt",
+              "role": "ShareHolder",
+              "nationality": "US",
+              "country": "LI"
+            },
+            {
+              "pepsId": "586cfe831c89206469818afa",
+              "firtName": "Vlad",
+              "lastName": "Devriendt",
+              "role": "BoardMember",
+              "nationality": "LU",
+              "country": "UKR"
+            },
+            {
+              "pepsId": "586cfe833dd97c09fc156bd7",
+              "firtName": "Vlad",
+              "lastName": "Bour",
+              "role": "BoardMember",
+              "nationality": "UK",
+              "country": "LI"
+            }
+          ]
+        },
+        {
+          "accountHolderId": "586cfe8316a0fdbe712cfb6d",
+          "residenceCode": "US",
+          "name": "BPName3",
+          "type": "Bank",
+          "natue": "Natural",
+          "distributionType": "Omnibus",
+          "rad": "Low",
+          "assetValue": 365438,
+          "relationType": "Investor",
+          "accountNum": 5,
+          "Peps": [
+            {
+              "pepsId": "586cfe8311da319e3c730fe7",
+              "firtName": "Dimitri",
+              "lastName": "Dussoye",
+              "role": "ShareHolder",
+              "nationality": "UKR",
+              "country": "UK"
+            },
+            {
+              "pepsId": "586cfe838ab8f5e6317a9ab6",
+              "firtName": "Antoine",
+              "lastName": "Fanchini",
+              "role": "Administrator",
+              "nationality": "LI",
+              "country": "LU"
+            },
+            {
+              "pepsId": "586cfe8396dc3adc345bfc69",
+              "firtName": "Antoine",
+              "lastName": "Dussoye",
+              "role": "BoardMember",
+              "nationality": "UK",
+              "country": "LU"
+            },
+            {
+              "pepsId": "586cfe831bb04e881a08f2c7",
+              "firtName": "Nicolas",
+              "lastName": "Devriendt",
+              "role": "BoardMember",
+              "nationality": "FR",
+              "country": "LI"
+            },
+            {
+              "pepsId": "586cfe832deabebb97bb50ef",
+              "firtName": "Micheal",
+              "lastName": "Bour",
+              "role": "Administrator",
+              "nationality": "LU",
+              "country": "US"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fundId": "586cfe83afa1ba3b84694eab",
+      "domicialition": "LU",
+      "name": "FundName1",
+      "AccountHolders": [
+        {
+          "accountHolderId": "586cfe83b7c1b949898b82b1",
+          "residenceCode": "LI",
+          "name": "BPName1",
+          "type": "Bank",
+          "natue": "Natural",
+          "distributionType": "Omnibus",
+          "rad": "High",
+          "assetValue": 182043,
+          "relationType": "Distributor",
+          "accountNum": 34,
+          "Peps": [
+            {
+              "pepsId": "586cfe83b6b1a9a65ae38c94",
+              "firtName": "Nicolas",
+              "lastName": "Kasparas",
+              "role": "BoardMember",
+              "nationality": "LI",
+              "country": "US"
+            },
+            {
+              "pepsId": "586cfe83a3f4210dce7f6c08",
+              "firtName": "Dimitri",
+              "lastName": "Tkachuk",
+              "role": "ShareHolder",
+              "nationality": "UK",
+              "country": "FR"
+            },
+            {
+              "pepsId": "586cfe834cff04ebf2ee2b2b",
+              "firtName": "Vlad",
+              "lastName": "Devriendt",
+              "role": "ShareHolder",
+              "nationality": "US",
+              "country": "US"
+            },
+            {
+              "pepsId": "586cfe83a4d34ad72cadb882",
+              "firtName": "Dimitri",
+              "lastName": "Bour",
+              "role": "ShareHolder",
+              "nationality": "LI",
+              "country": "UKR"
+            },
+            {
+              "pepsId": "586cfe83817f2c4304096547",
+              "firtName": "Sunil",
+              "lastName": "Kasparas",
+              "role": "Administrator",
+              "nationality": "LU",
+              "country": "UKR"
+            }
+          ]
+        },
+        {
+          "accountHolderId": "586cfe834e9ca7431e9b9b72",
+          "residenceCode": "US",
+          "name": "BPName2",
+          "type": "Other Financial Institutions",
+          "natue": "Natural",
+          "distributionType": "Segregated",
+          "rad": "Low",
+          "assetValue": 56720,
+          "relationType": "Investor",
+          "accountNum": 33,
+          "Peps": [
+            {
+              "pepsId": "586cfe838d3469e85a654527",
+              "firtName": "Arnas",
+              "lastName": "Devriendt",
+              "role": "ShareHolder",
+              "nationality": "LI",
+              "country": "UKR"
+            },
+            {
+              "pepsId": "586cfe83afb0087e06198037",
+              "firtName": "Dimitri",
+              "lastName": "Kasparas",
+              "role": "ShareHolder",
+              "nationality": "US",
+              "country": "UKR"
+            },
+            {
+              "pepsId": "586cfe8369a95165fb227478",
+              "firtName": "Vlad",
+              "lastName": "Dussoye",
+              "role": "ShareHolder",
+              "nationality": "LU",
+              "country": "US"
+            },
+            {
+              "pepsId": "586cfe83eaf0982ff4cfa0ba",
+              "firtName": "Antoine",
+              "lastName": "Fanchini",
+              "role": "BoardMember",
+              "nationality": "UKR",
+              "country": "UKR"
+            },
+            {
+              "pepsId": "586cfe830b8ec6569ce2e411",
+              "firtName": "Micheal",
+              "lastName": "Schwinn",
+              "role": "ShareHolder",
+              "nationality": "UKR",
+              "country": "US"
+            }
+          ]
+        },
+        {
+          "accountHolderId": "586cfe831f8b43fc43055c55",
+          "residenceCode": "FR",
+          "name": "BPName4",
+          "type": "Bank",
+          "natue": "Legal",
+          "distributionType": "Omnibus",
+          "rad": "Medium",
+          "assetValue": 227432,
+          "relationType": "Investor",
+          "accountNum": 2,
+          "Peps": [
+            {
+              "pepsId": "586cfe83042f5848d95ad404",
+              "firtName": "Arnas",
+              "lastName": "Kasparas",
+              "role": "BoardMember",
+              "nationality": "UK",
+              "country": "UK"
+            },
+            {
+              "pepsId": "586cfe833e267a721b3c7593",
+              "firtName": "Arnas",
+              "lastName": "Kasparas",
+              "role": "ShareHolder",
+              "nationality": "FR",
+              "country": "US"
+            },
+            {
+              "pepsId": "586cfe838a21319df65792f2",
+              "firtName": "Sunil",
+              "lastName": "Devriendt",
+              "role": "ShareHolder",
+              "nationality": "LI",
+              "country": "US"
+            },
+            {
+              "pepsId": "586cfe83702d5cbe82a589ec",
+              "firtName": "Nicolas",
+              "lastName": "Schwinn",
+              "role": "BoardMember",
+              "nationality": "LI",
+              "country": "FR"
+            },
+            {
+              "pepsId": "586cfe8399f6e8c7049fd4a8",
+              "firtName": "Micheal",
+              "lastName": "Kasparas",
+              "role": "Administrator",
+              "nationality": "LI",
+              "country": "LI"
+            }
+          ]
+        },
+        {
+          "accountHolderId": "586cfe837e765cda14b58574",
+          "residenceCode": "FR",
+          "name": "BPName4",
+          "type": "Bank",
+          "natue": "Natural",
+          "distributionType": "Omnibus",
+          "rad": "High",
+          "assetValue": 184316,
+          "relationType": "Distributor",
+          "accountNum": 36,
+          "Peps": [
+            {
+              "pepsId": "586cfe83d7163567d739f1b9",
+              "firtName": "Dimitri",
+              "lastName": "Schwinn",
+              "role": "ShareHolder",
+              "nationality": "UKR",
+              "country": "UKR"
+            },
+            {
+              "pepsId": "586cfe832efa2cd61241f3af",
+              "firtName": "Nicolas",
+              "lastName": "Tkachuk",
+              "role": "Administrator",
+              "nationality": "US",
+              "country": "UKR"
+            },
+            {
+              "pepsId": "586cfe836945d17df3b49ca2",
+              "firtName": "Sunil",
+              "lastName": "Tkachuk",
+              "role": "ShareHolder",
+              "nationality": "UKR",
+              "country": "UKR"
+            },
+            {
+              "pepsId": "586cfe8301bc86da9da35028",
+              "firtName": "Antoine",
+              "lastName": "Bour",
+              "role": "Administrator",
+              "nationality": "FR",
+              "country": "UKR"
+            },
+            {
+              "pepsId": "586cfe83cb465849bb72a04f",
+              "firtName": "Nicolas",
+              "lastName": "Bour",
+              "role": "ShareHolder",
+              "nationality": "US",
+              "country": "LI"
+            }
+          ]
+        },
+        {
+          "accountHolderId": "586cfe8344dd89f2669cf30e",
+          "residenceCode": "UK",
+          "name": "BPName1",
+          "type": "Other Financial Institutions",
+          "natue": "Legal",
+          "distributionType": "Omnibus",
+          "rad": "Low",
+          "assetValue": 160410,
+          "relationType": "Distributor",
+          "accountNum": 3,
+          "Peps": [
+            {
+              "pepsId": "586cfe83238a98dcd0078d8f",
+              "firtName": "Nicolas",
+              "lastName": "Tkachuk",
+              "role": "ShareHolder",
+              "nationality": "UK",
+              "country": "LI"
+            },
+            {
+              "pepsId": "586cfe83a9d7d5da952a336d",
+              "firtName": "Sunil",
+              "lastName": "Bour",
+              "role": "Administrator",
+              "nationality": "LU",
+              "country": "UK"
+            },
+            {
+              "pepsId": "586cfe83c08100bf31f6e746",
+              "firtName": "Sunil",
+              "lastName": "Devriendt",
+              "role": "ShareHolder",
+              "nationality": "UK",
+              "country": "FR"
+            },
+            {
+              "pepsId": "586cfe837539e97f72799799",
+              "firtName": "Sunil",
+              "lastName": "Devriendt",
+              "role": "BoardMember",
+              "nationality": "UK",
+              "country": "US"
+            },
+            {
+              "pepsId": "586cfe83612fbcedc190f70b",
+              "firtName": "Antoine",
+              "lastName": "Bour",
+              "role": "Administrator",
+              "nationality": "LI",
+              "country": "FR"
+            }
+          ]
+        }
+      ]
+    }, {
+      "fundId": "586cfe83a50aa96a16118c56",
+      "domicialition": "US",
+      "Promoter": {
+        "saraRegion": "msbl",
+        "name": "Name of teh region"
+      },
+      "name": "FundName3",
+      "AccountHolders": [
+        {
+"accountHolderId": "586cfe8389a7b46b3ae99232",
+"residenceCode": "LU",
+"name": "BPName6",
+"type": "Bank",
+"natue": "Natural",
+"distributionType": "Omnibus",
+"rad": "Low",
+"assetValue": 260113,
+"relationType": "Distributor",
+"accountNum": 13,
+"Peps": [
+{
+"pepsId": "586cfe8339579089cd99ec09",
+"firtName": "Dimitri",
+"lastName": "Devriendt",
+"role": "BoardMember",
+"nationality": "UK",
+"country": "FR"
+},
+{
+"pepsId": "586cfe83f706616302e76b7f",
+"firtName": "Nicolas",
+"lastName": "Kasparas",
+"role": "BoardMember",
+"nationality": "FR",
+"country": "LI"
+},
+{
+"pepsId": "586cfe83b0576b5b9b0beca7",
+"firtName": "Arnas",
+"lastName": "Kasparas",
+"role": "BoardMember",
+"nationality": "LI",
+"country": "LI"
+},
+{
+"pepsId": "586cfe83fdba7c8876f12af9",
+"firtName": "Vlad",
+"lastName": "Dussoye",
+"role": "BoardMember",
+"nationality": "US",
+"country": "UK"
+},
+{
+"pepsId": "586cfe83f1dc10c85a9d6160",
+"firtName": "Sunil",
+"lastName": "Devriendt",
+"role": "BoardMember",
+"nationality": "UK",
+"country": "UK"
+}
+]
+},
+{
+"accountHolderId": "586cfe83557d4cb0bdc77452",
+"residenceCode": "LI",
+"name": "BPName6",
+"type": "Bank",
+"natue": "Natural",
+"distributionType": "Segregated",
+"rad": "Low",
+"assetValue": 334113,
+"relationType": "Distributor",
+"accountNum": 18,
+"Peps": [
+{
+"pepsId": "586cfe83bb331eea11c7060d",
+"firtName": "Nicolas",
+"lastName": "Bour",
+"role": "BoardMember",
+"nationality": "FR",
+"country": "FR"
+},
+{
+"pepsId": "586cfe83a86ad0d3413e2020",
+"firtName": "Nicolas",
+"lastName": "Fanchini",
+"role": "Administrator",
+"nationality": "LI",
+"country": "UKR"
+},
+{
+"pepsId": "586cfe83371ccf675b92276e",
+"firtName": "Nicolas",
+"lastName": "Fanchini",
+"role": "BoardMember",
+"nationality": "LU",
+"country": "UKR"
+},
+{
+"pepsId": "586cfe83acc2a3401c7e6abd",
+"firtName": "Micheal",
+"lastName": "Devriendt",
+"role": "Administrator",
+"nationality": "UK",
+"country": "LU"
+},
+{
+"pepsId": "586cfe832469275b6d95b4b5",
+"firtName": "Vlad",
+"lastName": "Dussoye",
+"role": "ShareHolder",
+"nationality": "LU",
+"country": "UKR"
+}
+]
+},
+{
+"accountHolderId": "586cfe83e26c6c30313cf76f",
+"residenceCode": "UK",
+"name": "BPName6",
+"type": "Bank",
+"natue": "Legal",
+"distributionType": "Omnibus",
+"rad": "Low",
+"assetValue": 62811,
+"relationType": "Distributor",
+"accountNum": 21,
+"Peps": [
+{
+"pepsId": "586cfe8351899d3b30b06af3",
+"firtName": "Nicolas",
+"lastName": "Bour",
+"role": "Administrator",
+"nationality": "US",
+"country": "US"
+},
+{
+"pepsId": "586cfe83283c641a067964c8",
+"firtName": "Vlad",
+"lastName": "Fanchini",
+"role": "ShareHolder",
+"nationality": "UK",
+"country": "LI"
+},
+{
+"pepsId": "586cfe830540777db9ef6eac",
+"firtName": "Sunil",
+"lastName": "Bour",
+"role": "BoardMember",
+"nationality": "UKR",
+"country": "FR"
+},
+{
+"pepsId": "586cfe838040709d4f8a86dc",
+"firtName": "Arnas",
+"lastName": "Devriendt",
+"role": "BoardMember",
+"nationality": "LU",
+"country": "UKR"
+},
+{
+"pepsId": "586cfe83a27124ca4f89590c",
+"firtName": "Micheal",
+"lastName": "Devriendt",
+"role": "BoardMember",
+"nationality": "US",
+"country": "LU"
+}
+]
+},
+{
+"accountHolderId": "586cfe832ba8648b3850b124",
+"residenceCode": "LU",
+"name": "BPName2",
+"type": "Bank",
+"natue": "Legal",
+"distributionType": "Segregated",
+"rad": "Medium",
+"assetValue": 286674,
+"relationType": "Distributor",
+"accountNum": 32,
+"Peps": [
+{
+"pepsId": "586cfe8324079c383497ba33",
+"firtName": "Micheal",
+"lastName": "Kasparas",
+"role": "Administrator",
+"nationality": "LI",
+"country": "US"
+},
+{
+"pepsId": "586cfe83d2f1a325b7724d1f",
+"firtName": "Sunil",
+"lastName": "Dussoye",
+"role": "BoardMember",
+"nationality": "FR",
+"country": "LU"
+},
+{
+"pepsId": "586cfe8302444536418903ab",
+"firtName": "Micheal",
+"lastName": "Bour",
+"role": "Administrator",
+"nationality": "US",
+"country": "US"
+},
+{
+"pepsId": "586cfe83e9acb0220d9a6ba2",
+"firtName": "Dimitri",
+"lastName": "Tkachuk",
+"role": "BoardMember",
+"nationality": "LI",
+"country": "UK"
+},
+{
+"pepsId": "586cfe83c5c8c5c91eb3b59e",
+"firtName": "Micheal",
+"lastName": "Devriendt",
+"role": "ShareHolder",
+"nationality": "LI",
+"country": "FR"
+}
+]
+},
+{
+"accountHolderId": "586cfe8321c82ab4f84c8358",
+"residenceCode": "US",
+"name": "BPName1",
+"type": "Bank",
+"natue": "Natural",
+"distributionType": "Omnibus",
+"rad": "High",
+"assetValue": 7334,
+"relationType": "Distributor",
+"accountNum": 3,
+"Peps": [
+{
+"pepsId": "586cfe83cae4403b6f3eba95",
+"firtName": "Arnas",
+"lastName": "Bour",
+"role": "BoardMember",
+"nationality": "LI",
+"country": "UKR"
+},
+{
+"pepsId": "586cfe83d171207aa5f1c4e7",
+"firtName": "Antoine",
+"lastName": "Bour",
+"role": "ShareHolder",
+"nationality": "LI",
+"country": "LI"
+},
+{
+"pepsId": "586cfe8317d6eca9963ccf38",
+"firtName": "Vlad",
+"lastName": "Fanchini",
+"role": "BoardMember",
+"nationality": "US",
+"country": "LI"
+},
+{
+"pepsId": "586cfe83111a0ea19a7099d6",
+"firtName": "Arnas",
+"lastName": "Devriendt",
+"role": "ShareHolder",
+"nationality": "FR",
+"country": "UKR"
+},
+{
+"pepsId": "586cfe831da2f3178463326f",
+"firtName": "Dimitri",
+"lastName": "Tkachuk",
+"role": "ShareHolder",
+"nationality": "US",
+"country": "LU"
+}
+]
+}
+]
+    },
+    {
+      "fundId": "586cfe83c766dc85908793a2",
+      "domicialition": "LI",
+      "name": "FundName4",
+      "AccountHolders": [
+{
+"accountHolderId": "586cfe831013f5a8c08cfc36",
+"residenceCode": "UKR",
+"name": "BPName4",
+"type": "Bank",
+"natue": "Legal",
+"distributionType": "Segregated",
+"rad": "Low",
+"assetValue": 56300,
+"relationType": "Investor",
+"accountNum": 7,
+"Peps": [
+{
+"pepsId": "586cfe83089ca6fed7a5b762",
+"firtName": "Vlad",
+"lastName": "Devriendt",
+"role": "Administrator",
+"nationality": "UKR",
+"country": "UKR"
+},
+{
+"pepsId": "586cfe83ab8996e581c32e37",
+"firtName": "Vlad",
+"lastName": "Tkachuk",
+"role": "ShareHolder",
+"nationality": "FR",
+"country": "US"
+},
+{
+"pepsId": "586cfe8342d365ebe65f6fc6",
+"firtName": "Antoine",
+"lastName": "Tkachuk",
+"role": "ShareHolder",
+"nationality": "LI",
+"country": "UKR"
+},
+{
+"pepsId": "586cfe832b2d68d37a10f9f5",
+"firtName": "Arnas",
+"lastName": "Fanchini",
+"role": "Administrator",
+"nationality": "UKR",
+"country": "UK"
+},
+{
+"pepsId": "586cfe83652627737cf6fda3",
+"firtName": "Arnas",
+"lastName": "Schwinn",
+"role": "Administrator",
+"nationality": "US",
+"country": "LU"
+}
+]
+},
+{
+"accountHolderId": "586cfe8360282a130641cf8d",
+"residenceCode": "LI",
+"name": "BPName3",
+"type": "Bank",
+"natue": "Natural",
+"distributionType": "Omnibus",
+"rad": "Medium",
+"assetValue": 340811,
+"relationType": "Distributor",
+"accountNum": 23,
+"Peps": [
+{
+"pepsId": "586cfe83b4568f0c415b3689",
+"firtName": "Sunil",
+"lastName": "Tkachuk",
+"role": "BoardMember",
+"nationality": "FR",
+"country": "UKR"
+},
+{
+"pepsId": "586cfe83a1f29d2f6b3cefcb",
+"firtName": "Dimitri",
+"lastName": "Devriendt",
+"role": "Administrator",
+"nationality": "UK",
+"country": "UKR"
+},
+{
+"pepsId": "586cfe8331c9f2443975904d",
+"firtName": "Arnas",
+"lastName": "Tkachuk",
+"role": "Administrator",
+"nationality": "US",
+"country": "FR"
+},
+{
+"pepsId": "586cfe83dc5018f0d5c11013",
+"firtName": "Vlad",
+"lastName": "Dussoye",
+"role": "ShareHolder",
+"nationality": "FR",
+"country": "LU"
+},
+{
+"pepsId": "586cfe83587bf6f3201cd8a5",
+"firtName": "Nicolas",
+"lastName": "Devriendt",
+"role": "ShareHolder",
+"nationality": "UK",
+"country": "FR"
+}
+]
+},
+{
+"accountHolderId": "586cfe8307a6f18a53e5cb2b",
+"residenceCode": "UK",
+"name": "BPName3",
+"type": "Other Financial Institutions",
+"natue": "Natural",
+"distributionType": "Omnibus",
+"rad": "Low",
+"assetValue": 2586,
+"relationType": "Distributor",
+"accountNum": 2,
+"Peps": [
+{
+"pepsId": "586cfe83342ceb05bd3515a2",
+"firtName": "Arnas",
+"lastName": "Fanchini",
+"role": "ShareHolder",
+"nationality": "UK",
+"country": "US"
+},
+{
+"pepsId": "586cfe834cf659d7a2aef5ec",
+"firtName": "Micheal",
+"lastName": "Tkachuk",
+"role": "Administrator",
+"nationality": "LI",
+"country": "UKR"
+},
+{
+"pepsId": "586cfe832463cca5ebb71076",
+"firtName": "Sunil",
+"lastName": "Kasparas",
+"role": "Administrator",
+"nationality": "LI",
+"country": "UK"
+},
+{
+"pepsId": "586cfe83491afff70cae010d",
+"firtName": "Dimitri",
+"lastName": "Bour",
+"role": "ShareHolder",
+"nationality": "LI",
+"country": "FR"
+},
+{
+"pepsId": "586cfe834afb1fa0f5d4df06",
+"firtName": "Micheal",
+"lastName": "Kasparas",
+"role": "BoardMember",
+"nationality": "UKR",
+"country": "US"
+}
+]
+},
+{
+"accountHolderId": "586cfe839e46f8910ae67f93",
+"residenceCode": "UK",
+"name": "BPName3",
+"type": "Bank",
+"natue": "Natural",
+"distributionType": "Omnibus",
+"rad": "Low",
+"assetValue": 398218,
+"relationType": "Investor",
+"accountNum": 2,
+"Peps": [
+{
+"pepsId": "586cfe8355fb8e5c503012d3",
+"firtName": "Nicolas",
+"lastName": "Schwinn",
+"role": "BoardMember",
+"nationality": "US",
+"country": "FR"
+},
+{
+"pepsId": "586cfe8318360d13fe570b6b",
+"firtName": "Micheal",
+"lastName": "Fanchini",
+"role": "Administrator",
+"nationality": "UKR",
+"country": "UKR"
+},
+{
+"pepsId": "586cfe83d561a8504fa7b820",
+"firtName": "Sunil",
+"lastName": "Devriendt",
+"role": "BoardMember",
+"nationality": "UK",
+"country": "US"
+},
+{
+"pepsId": "586cfe834e2e425c25429c91",
+"firtName": "Antoine",
+"lastName": "Bour",
+"role": "BoardMember",
+"nationality": "US",
+"country": "US"
+},
+{
+"pepsId": "586cfe8308fae1a5872788fd",
+"firtName": "Antoine",
+"lastName": "Bour",
+"role": "BoardMember",
+"nationality": "UK",
+"country": "US"
+}
+]
+},
+{
+"accountHolderId": "586cfe830580c040ec8063a2",
+"residenceCode": "UK",
+"name": "BPName5",
+"type": "Bank",
+"natue": "Legal",
+"distributionType": "Omnibus",
+"rad": "Low",
+"assetValue": 149345,
+"relationType": "Distributor",
+"accountNum": 1,
+"Peps": [
+{
+"pepsId": "586cfe83bb316c53eaa12778",
+"firtName": "Nicolas",
+"lastName": "Tkachuk",
+"role": "Administrator",
+"nationality": "LU",
+"country": "LI"
+},
+{
+"pepsId": "586cfe833dcab7ce9512bb27",
+"firtName": "Dimitri",
+"lastName": "Fanchini",
+"role": "Administrator",
+"nationality": "LI",
+"country": "LU"
+},
+{
+"pepsId": "586cfe831f2be5516dac0368",
+"firtName": "Vlad",
+"lastName": "Tkachuk",
+"role": "ShareHolder",
+"nationality": "LI",
+"country": "UK"
+},
+{
+"pepsId": "586cfe836091d43c0e3c242e",
+"firtName": "Dimitri",
+"lastName": "Fanchini",
+"role": "Administrator",
+"nationality": "FR",
+"country": "US"
+},
+{
+"pepsId": "586cfe8312d00638efabf696",
+"firtName": "Dimitri",
+"lastName": "Devriendt",
+"role": "Administrator",
+"nationality": "FR",
+"country": "LU"
+}
+]
+}
+],
+      "Promoter": {
+        "saraRegion": "msbl",
+        "name": "Name of teh region"
+      }
+    },
+    {
+      "fundId": "586cfe832331082d1d783884",
+      "domicialition": "LI",
+      "name": "FundName1",
+      "AccountHolders": [
+{
+"accountHolderId": "586cfe8371902bceafa45073",
+"residenceCode": "UKR",
+"name": "BPName4",
+"type": "Bank",
+"natue": "Natural",
+"distributionType": "Segregated",
+"rad": "Low",
+"assetValue": 369558,
+"relationType": "Investor",
+"accountNum": 7,
+"Peps": [
+{
+"pepsId": "586cfe830d8e497de38e40a3",
+"firtName": "Antoine",
+"lastName": "Fanchini",
+"role": "BoardMember",
+"nationality": "US",
+"country": "UK"
+},
+{
+"pepsId": "586cfe83427db44c4d5b74db",
+"firtName": "Micheal",
+"lastName": "Schwinn",
+"role": "BoardMember",
+"nationality": "LI",
+"country": "UK"
+},
+{
+"pepsId": "586cfe83f44d49f7a591a2e5",
+"firtName": "Vlad",
+"lastName": "Bour",
+"role": "BoardMember",
+"nationality": "FR",
+"country": "FR"
+},
+{
+"pepsId": "586cfe83aef8dcdb50f786ba",
+"firtName": "Nicolas",
+"lastName": "Kasparas",
+"role": "Administrator",
+"nationality": "FR",
+"country": "FR"
+},
+{
+"pepsId": "586cfe831fb46eb4ee3650e2",
+"firtName": "Dimitri",
+"lastName": "Schwinn",
+"role": "ShareHolder",
+"nationality": "US",
+"country": "US"
+}
+]
+},
+{
+"accountHolderId": "586cfe830d8ddbc2acaf7185",
+"residenceCode": "FR",
+"name": "BPName1",
+"type": "Other Financial Institutions",
+"natue": "Natural",
+"distributionType": "Omnibus",
+"rad": "High",
+"assetValue": 38692,
+"relationType": "Distributor",
+"accountNum": 38,
+"Peps": [
+{
+"pepsId": "586cfe83073cb576c5167d58",
+"firtName": "Antoine",
+"lastName": "Devriendt",
+"role": "ShareHolder",
+"nationality": "UK",
+"country": "UK"
+},
+{
+"pepsId": "586cfe83ed92bb28918b7fef",
+"firtName": "Arnas",
+"lastName": "Schwinn",
+"role": "ShareHolder",
+"nationality": "FR",
+"country": "LI"
+},
+{
+"pepsId": "586cfe835f7e4802bca65091",
+"firtName": "Dimitri",
+"lastName": "Schwinn",
+"role": "BoardMember",
+"nationality": "LU",
+"country": "LU"
+},
+{
+"pepsId": "586cfe83d5ea5379d2a74305",
+"firtName": "Antoine",
+"lastName": "Fanchini",
+"role": "ShareHolder",
+"nationality": "LU",
+"country": "UK"
+},
+{
+"pepsId": "586cfe8386abe42bc19528ab",
+"firtName": "Antoine",
+"lastName": "Kasparas",
+"role": "Administrator",
+"nationality": "US",
+"country": "UKR"
+}
+]
+},
+{
+"accountHolderId": "586cfe83903ec6f44dfdd049",
+"residenceCode": "LU",
+"name": "BPName1",
+"type": "Other Financial Institutions",
+"natue": "Natural",
+"distributionType": "Segregated",
+"rad": "High",
+"assetValue": 261352,
+"relationType": "Investor",
+"accountNum": 38,
+"Peps": [
+{
+"pepsId": "586cfe835dfdcc6c5eac57a8",
+"firtName": "Sunil",
+"lastName": "Fanchini",
+"role": "BoardMember",
+"nationality": "LU",
+"country": "LU"
+},
+{
+"pepsId": "586cfe83803d233354bf039e",
+"firtName": "Sunil",
+"lastName": "Devriendt",
+"role": "Administrator",
+"nationality": "US",
+"country": "LU"
+},
+{
+"pepsId": "586cfe833706c4f75b6e4900",
+"firtName": "Vlad",
+"lastName": "Bour",
+"role": "BoardMember",
+"nationality": "LU",
+"country": "LU"
+},
+{
+"pepsId": "586cfe833274d4b1fe8f8ea8",
+"firtName": "Arnas",
+"lastName": "Dussoye",
+"role": "BoardMember",
+"nationality": "LU",
+"country": "LU"
+},
+{
+"pepsId": "586cfe839ad9feb3af6928e9",
+"firtName": "Arnas",
+"lastName": "Devriendt",
+"role": "Administrator",
+"nationality": "FR",
+"country": "FR"
+}
+]
+},
+{
+"accountHolderId": "586cfe83d202d920454dcb89",
+"residenceCode": "LI",
+"name": "BPName3",
+"type": "Other Financial Institutions",
+"natue": "Legal",
+"distributionType": "Segregated",
+"rad": "High",
+"assetValue": 361736,
+"relationType": "Distributor",
+"accountNum": 7,
+"Peps": [
+{
+"pepsId": "586cfe8328dac793577a24ee",
+"firtName": "Sunil",
+"lastName": "Dussoye",
+"role": "Administrator",
+"nationality": "UKR",
+"country": "FR"
+},
+{
+"pepsId": "586cfe835ac2c60380738a38",
+"firtName": "Micheal",
+"lastName": "Devriendt",
+"role": "ShareHolder",
+"nationality": "UK",
+"country": "US"
+},
+{
+"pepsId": "586cfe83aaba00c0f78be412",
+"firtName": "Sunil",
+"lastName": "Bour",
+"role": "ShareHolder",
+"nationality": "FR",
+"country": "LU"
+},
+{
+"pepsId": "586cfe8306a34702b53e6e82",
+"firtName": "Antoine",
+"lastName": "Fanchini",
+"role": "ShareHolder",
+"nationality": "US",
+"country": "LU"
+},
+{
+"pepsId": "586cfe8392c8d57024c7ef1f",
+"firtName": "Arnas",
+"lastName": "Dussoye",
+"role": "BoardMember",
+"nationality": "UK",
+"country": "UK"
+}
+]
+},
+{
+"accountHolderId": "586cfe83f34308fe71e03b36",
+"residenceCode": "US",
+"name": "BPName3",
+"type": "Bank",
+"natue": "Natural",
+"distributionType": "Omnibus",
+"rad": "Medium",
+"assetValue": 266275,
+"relationType": "Distributor",
+"accountNum": 20,
+"Peps": [
+{
+"pepsId": "586cfe837698fd0894efe54a",
+"firtName": "Sunil",
+"lastName": "Fanchini",
+"role": "BoardMember",
+"nationality": "LI",
+"country": "LU"
+},
+{
+"pepsId": "586cfe83269a16227a59e620",
+"firtName": "Nicolas",
+"lastName": "Kasparas",
+"role": "ShareHolder",
+"nationality": "US",
+"country": "LU"
+},
+{
+"pepsId": "586cfe8314d6004f8b145ff6",
+"firtName": "Antoine",
+"lastName": "Fanchini",
+"role": "BoardMember",
+"nationality": "UK",
+"country": "US"
+},
+{
+"pepsId": "586cfe83ea510a205115c3b4",
+"firtName": "Sunil",
+"lastName": "Kasparas",
+"role": "BoardMember",
+"nationality": "UK",
+"country": "LI"
+},
+{
+"pepsId": "586cfe83618f96c0baab1911",
+"firtName": "Antoine",
+"lastName": "Fanchini",
+"role": "BoardMember",
+"nationality": "LI",
+"country": "UK"
+}
+]
+}
+],
+      "Promoter": {
+        "saraRegion": "msbl",
+        "name": "Name of teh region"
+      }
+    },
+    {
+      "fundId": "586cfe83e10fcb6daa864f0d",
+      "domicialition": "US",
+      "name": "FundName4",
+      "AccountHolders": [
+{
+"accountHolderId": "586cfe8351d96513aa20a868",
+"residenceCode": "US",
+"name": "BPName1",
+"type": "Bank",
+"natue": "Natural",
+"distributionType": "Segregated",
+"rad": "Medium",
+"assetValue": 282269,
+"relationType": "Investor",
+"accountNum": 6,
+"Peps": [
+{
+"pepsId": "586cfe83e9478f54066c030d",
+"firtName": "Dimitri",
+"lastName": "Schwinn",
+"role": "BoardMember",
+"nationality": "LI",
+"country": "US"
+},
+{
+"pepsId": "586cfe83ea337fb63712f031",
+"firtName": "Sunil",
+"lastName": "Fanchini",
+"role": "ShareHolder",
+"nationality": "LI",
+"country": "LI"
+},
+{
+"pepsId": "586cfe8336fcf9578a5f0e84",
+"firtName": "Nicolas",
+"lastName": "Tkachuk",
+"role": "Administrator",
+"nationality": "LU",
+"country": "LU"
+},
+{
+"pepsId": "586cfe837211e48693366ea0",
+"firtName": "Antoine",
+"lastName": "Fanchini",
+"role": "ShareHolder",
+"nationality": "LI",
+"country": "LI"
+},
+{
+"pepsId": "586cfe83130d979e16f81106",
+"firtName": "Micheal",
+"lastName": "Fanchini",
+"role": "ShareHolder",
+"nationality": "US",
+"country": "UK"
+}
+]
+},
+{
+"accountHolderId": "586cfe83d4211b9eec473c3b",
+"residenceCode": "LU",
+"name": "BPName1",
+"type": "Other Financial Institutions",
+"natue": "Natural",
+"distributionType": "Omnibus",
+"rad": "Medium",
+"assetValue": 20457,
+"relationType": "Distributor",
+"accountNum": 34,
+"Peps": [
+{
+"pepsId": "586cfe838967a57d2b19b964",
+"firtName": "Vlad",
+"lastName": "Devriendt",
+"role": "ShareHolder",
+"nationality": "UKR",
+"country": "UK"
+},
+{
+"pepsId": "586cfe834390531f115b4272",
+"firtName": "Sunil",
+"lastName": "Tkachuk",
+"role": "ShareHolder",
+"nationality": "US",
+"country": "UK"
+},
+{
+"pepsId": "586cfe839f7d3d3d2e002a08",
+"firtName": "Vlad",
+"lastName": "Schwinn",
+"role": "Administrator",
+"nationality": "US",
+"country": "LU"
+},
+{
+"pepsId": "586cfe835137fd55caf2eab2",
+"firtName": "Vlad",
+"lastName": "Fanchini",
+"role": "ShareHolder",
+"nationality": "US",
+"country": "FR"
+},
+{
+"pepsId": "586cfe83a0b7d6c7990861e0",
+"firtName": "Nicolas",
+"lastName": "Tkachuk",
+"role": "Administrator",
+"nationality": "UKR",
+"country": "US"
+}
+]
+},
+{
+"accountHolderId": "586cfe8361696d78a45a0127",
+"residenceCode": "UK",
+"name": "BPName2",
+"type": "Other Financial Institutions",
+"natue": "Legal",
+"distributionType": "Omnibus",
+"rad": "Medium",
+"assetValue": 171400,
+"relationType": "Investor",
+"accountNum": 25,
+"Peps": [
+{
+"pepsId": "586cfe833f6f49960b552c6a",
+"firtName": "Micheal",
+"lastName": "Tkachuk",
+"role": "Administrator",
+"nationality": "UKR",
+"country": "UK"
+},
+{
+"pepsId": "586cfe83ab1d34153d84bfe7",
+"firtName": "Micheal",
+"lastName": "Devriendt",
+"role": "BoardMember",
+"nationality": "LU",
+"country": "UKR"
+},
+{
+"pepsId": "586cfe83a0ab79f9a22c8241",
+"firtName": "Sunil",
+"lastName": "Bour",
+"role": "Administrator",
+"nationality": "UKR",
+"country": "UK"
+},
+{
+"pepsId": "586cfe8390ffec4e786a4cbc",
+"firtName": "Micheal",
+"lastName": "Schwinn",
+"role": "Administrator",
+"nationality": "FR",
+"country": "UKR"
+},
+{
+"pepsId": "586cfe8341c7123cc774f13e",
+"firtName": "Micheal",
+"lastName": "Dussoye",
+"role": "ShareHolder",
+"nationality": "UKR",
+"country": "FR"
+}
+]
+},
+{
+"accountHolderId": "586cfe834faddc8effb0a868",
+"residenceCode": "LI",
+"name": "BPName2",
+"type": "Other Financial Institutions",
+"natue": "Legal",
+"distributionType": "Omnibus",
+"rad": "High",
+"assetValue": 281325,
+"relationType": "Distributor",
+"accountNum": 28,
+"Peps": [
+{
+"pepsId": "586cfe83b74a0d65d481a9ea",
+"firtName": "Antoine",
+"lastName": "Fanchini",
+"role": "Administrator",
+"nationality": "UKR",
+"country": "US"
+},
+{
+"pepsId": "586cfe836a5f109bd8c8768e",
+"firtName": "Micheal",
+"lastName": "Fanchini",
+"role": "BoardMember",
+"nationality": "FR",
+"country": "UK"
+},
+{
+"pepsId": "586cfe8343edc034fe0b7fae",
+"firtName": "Antoine",
+"lastName": "Dussoye",
+"role": "BoardMember",
+"nationality": "UKR",
+"country": "US"
+},
+{
+"pepsId": "586cfe835a5724c7628ba0e9",
+"firtName": "Micheal",
+"lastName": "Kasparas",
+"role": "ShareHolder",
+"nationality": "LU",
+"country": "US"
+},
+{
+"pepsId": "586cfe83887ea7aab81a5e27",
+"firtName": "Sunil",
+"lastName": "Schwinn",
+"role": "BoardMember",
+"nationality": "UKR",
+"country": "LU"
+}
+]
+},
+{
+"accountHolderId": "586cfe83bacd3d72155225db",
+"residenceCode": "LU",
+"name": "BPName6",
+"type": "Bank",
+"natue": "Natural",
+"distributionType": "Segregated",
+"rad": "High",
+"assetValue": 73097,
+"relationType": "Distributor",
+"accountNum": 9,
+"Peps": [
+{
+"pepsId": "586cfe834cfbca740eb616dc",
+"firtName": "Sunil",
+"lastName": "Bour",
+"role": "ShareHolder",
+"nationality": "UKR",
+"country": "UKR"
+},
+{
+"pepsId": "586cfe8304f40dc07414ff1c",
+"firtName": "Dimitri",
+"lastName": "Fanchini",
+"role": "ShareHolder",
+"nationality": "UK",
+"country": "LI"
+},
+{
+"pepsId": "586cfe83342ca7391358f2c4",
+"firtName": "Nicolas",
+"lastName": "Bour",
+"role": "BoardMember",
+"nationality": "UKR",
+"country": "US"
+},
+{
+"pepsId": "586cfe835c305af157a9d36c",
+"firtName": "Nicolas",
+"lastName": "Tkachuk",
+"role": "Administrator",
+"nationality": "UK",
+"country": "US"
+},
+{
+"pepsId": "586cfe83c08409039c3f83bf",
+"firtName": "Nicolas",
+"lastName": "Dussoye",
+"role": "Administrator",
+"nationality": "UK",
+"country": "UKR"
+}
+]
+}
+],
+      "Promoter": {
+        "saraRegion": "msbl",
+        "name": "Name of teh region"
+      }
+    },
+    {
+      "fundId": "586cfe83c13ef5568246eae1",
+      "domicialition": "UKR",
+      "name": "FundName2",
+      "AccountHolders": [
+{
+"accountHolderId": "586cfe83f7a40344c004f230",
+"residenceCode": "UK",
+"name": "BPName4",
+"type": "Bank",
+"natue": "Natural",
+"distributionType": "Omnibus",
+"rad": "Low",
+"assetValue": 137819,
+"relationType": "Investor",
+"accountNum": 39,
+"Peps": [
+{
+"pepsId": "586cfe83f1d4524ee78b0f12",
+"firtName": "Micheal",
+"lastName": "Dussoye",
+"role": "BoardMember",
+"nationality": "LI",
+"country": "UKR"
+},
+{
+"pepsId": "586cfe8374538054ed5aba40",
+"firtName": "Sunil",
+"lastName": "Tkachuk",
+"role": "BoardMember",
+"nationality": "US",
+"country": "FR"
+},
+{
+"pepsId": "586cfe83c00e964558617419",
+"firtName": "Vlad",
+"lastName": "Tkachuk",
+"role": "Administrator",
+"nationality": "FR",
+"country": "FR"
+},
+{
+"pepsId": "586cfe8382182cf06c9f1134",
+"firtName": "Sunil",
+"lastName": "Schwinn",
+"role": "BoardMember",
+"nationality": "LU",
+"country": "UKR"
+},
+{
+"pepsId": "586cfe8385b2cf4088891ed6",
+"firtName": "Dimitri",
+"lastName": "Fanchini",
+"role": "Administrator",
+"nationality": "UK",
+"country": "UKR"
+}
+]
+},
+{
+"accountHolderId": "586cfe83d8f3815cbe3a9422",
+"residenceCode": "US",
+"name": "BPName5",
+"type": "Other Financial Institutions",
+"natue": "Natural",
+"distributionType": "Omnibus",
+"rad": "Low",
+"assetValue": 16946,
+"relationType": "Distributor",
+"accountNum": 11,
+"Peps": [
+{
+"pepsId": "586cfe834c2126b1de85ceef",
+"firtName": "Arnas",
+"lastName": "Dussoye",
+"role": "ShareHolder",
+"nationality": "UK",
+"country": "FR"
+},
+{
+"pepsId": "586cfe8396337381fb4cb083",
+"firtName": "Nicolas",
+"lastName": "Fanchini",
+"role": "BoardMember",
+"nationality": "LU",
+"country": "LU"
+},
+{
+"pepsId": "586cfe83234982c5ee1db20e",
+"firtName": "Dimitri",
+"lastName": "Schwinn",
+"role": "ShareHolder",
+"nationality": "LI",
+"country": "UK"
+},
+{
+"pepsId": "586cfe837ab47f5889e910fd",
+"firtName": "Vlad",
+"lastName": "Schwinn",
+"role": "ShareHolder",
+"nationality": "LU",
+"country": "UKR"
+},
+{
+"pepsId": "586cfe83d293f9395660bbd6",
+"firtName": "Vlad",
+"lastName": "Devriendt",
+"role": "BoardMember",
+"nationality": "LI",
+"country": "LU"
+}
+]
+},
+{
+"accountHolderId": "586cfe83551e530eb56664b2",
+"residenceCode": "US",
+"name": "BPName1",
+"type": "Bank",
+"natue": "Natural",
+"distributionType": "Segregated",
+"rad": "Low",
+"assetValue": 153838,
+"relationType": "Investor",
+"accountNum": 17,
+"Peps": [
+{
+"pepsId": "586cfe837b7592988ec0f13e",
+"firtName": "Micheal",
+"lastName": "Dussoye",
+"role": "ShareHolder",
+"nationality": "US",
+"country": "US"
+},
+{
+"pepsId": "586cfe83bbd9b07d423e1745",
+"firtName": "Micheal",
+"lastName": "Kasparas",
+"role": "BoardMember",
+"nationality": "UK",
+"country": "UK"
+},
+{
+"pepsId": "586cfe836a2310390591f604",
+"firtName": "Micheal",
+"lastName": "Devriendt",
+"role": "Administrator",
+"nationality": "LU",
+"country": "LU"
+},
+{
+"pepsId": "586cfe8351a0c0f82155b83b",
+"firtName": "Nicolas",
+"lastName": "Schwinn",
+"role": "ShareHolder",
+"nationality": "LI",
+"country": "US"
+},
+{
+"pepsId": "586cfe83845cdcc87c753be2",
+"firtName": "Arnas",
+"lastName": "Bour",
+"role": "Administrator",
+"nationality": "UK",
+"country": "US"
+}
+]
+},
+{
+"accountHolderId": "586cfe83c6627f4902562e46",
+"residenceCode": "US",
+"name": "BPName1",
+"type": "Other Financial Institutions",
+"natue": "Natural",
+"distributionType": "Omnibus",
+"rad": "Medium",
+"assetValue": 381263,
+"relationType": "Distributor",
+"accountNum": 32,
+"Peps": [
+{
+"pepsId": "586cfe837b130dac64752c3d",
+"firtName": "Antoine",
+"lastName": "Tkachuk",
+"role": "BoardMember",
+"nationality": "FR",
+"country": "UKR"
+},
+{
+"pepsId": "586cfe8323899d7a548fb384",
+"firtName": "Dimitri",
+"lastName": "Bour",
+"role": "ShareHolder",
+"nationality": "LU",
+"country": "LI"
+},
+{
+"pepsId": "586cfe83674377e0b91563f5",
+"firtName": "Micheal",
+"lastName": "Tkachuk",
+"role": "BoardMember",
+"nationality": "LU",
+"country": "UK"
+},
+{
+"pepsId": "586cfe836ae9e7a8da3f60d0",
+"firtName": "Sunil",
+"lastName": "Schwinn",
+"role": "BoardMember",
+"nationality": "FR",
+"country": "US"
+},
+{
+"pepsId": "586cfe83f3fbfb67209c7765",
+"firtName": "Dimitri",
+"lastName": "Kasparas",
+"role": "ShareHolder",
+"nationality": "UK",
+"country": "US"
+}
+]
+},
+{
+"accountHolderId": "586cfe83ea6540baaa25661e",
+"residenceCode": "UKR",
+"name": "BPName5",
+"type": "Other Financial Institutions",
+"natue": "Legal",
+"distributionType": "Segregated",
+"rad": "Medium",
+"assetValue": 260826,
+"relationType": "Investor",
+"accountNum": 18,
+"Peps": [
+{
+"pepsId": "586cfe83b48aae719cad5587",
+"firtName": "Micheal",
+"lastName": "Tkachuk",
+"role": "BoardMember",
+"nationality": "LI",
+"country": "UKR"
+},
+{
+"pepsId": "586cfe830fe3a55b1349707e",
+"firtName": "Dimitri",
+"lastName": "Devriendt",
+"role": "ShareHolder",
+"nationality": "US",
+"country": "UK"
+},
+{
+"pepsId": "586cfe835d73656ddd029df4",
+"firtName": "Sunil",
+"lastName": "Schwinn",
+"role": "ShareHolder",
+"nationality": "US",
+"country": "FR"
+},
+{
+"pepsId": "586cfe837c2ee391c31717a1",
+"firtName": "Vlad",
+"lastName": "Fanchini",
+"role": "BoardMember",
+"nationality": "UKR",
+"country": "US"
+},
+{
+"pepsId": "586cfe83ad2f86d12e4ccd3c",
+"firtName": "Sunil",
+"lastName": "Fanchini",
+"role": "BoardMember",
+"nationality": "LI",
+"country": "LU"
+}
+]
+}
+],
+      "Promoter": {
+        "saraRegion": "msbl",
+        "name": "Name of teh region"
+      }
+    }
+  ]
+}

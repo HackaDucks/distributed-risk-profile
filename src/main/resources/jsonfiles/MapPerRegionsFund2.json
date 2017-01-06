@@ -1,66 +1,66 @@
 {
-   "fundId": "Fund2",
-   "fundName": "Fund Name 2",
-   "Regions": [
-      {
-         "regionCode": "AS",
-         "Low": {
-            "assetValue": 2000,
-            "percentagePerAssetValue": 74
-         },
-         "Medium": {
-            "assetValue": 500,
-            "percentagePerAssetValue": 18.5
-         },
-         "High": {
-            "assetValue": 200,
-            "percentagePerAssetValue": 7.5
-         }
+  "fundId": "Fund2",
+  "fundName": "Fund Name 2",
+  "Regions": [
+    {
+      "regionCode": "AS",
+      "Low": {
+        "assetValue": 2000,
+        "percentagePerAssetValue": 74
       },
-      {
-         "regionCode": "OC",
-         "Low": {
-            "assetValue": 25,
-            "percentagePerAssetValue": 17.7
-         },
-         "Medium": {
-            "assetValue": 32,
-            "percentagePerAssetValue": 22.7
-         },
-         "High": {
-            "assetValue": 84,
-            "percentagePerAssetValue": 59.6
-         }
+      "Medium": {
+        "assetValue": 500,
+        "percentagePerAssetValue": 18.5
       },
-      {
-         "regionCode": "EU",
-         "Low": {
-            "assetValue": 564,
-            "percentagePerAssetValue": 86
-         },
-         "Medium": {
-            "assetValue": 12,
-            "percentagePerAssetValue": 1.8
-         },
-         "High": {
-            "assetValue": 80,
-            "percentagePerAssetValue": 12.2
-         }
-      },
-      {
-         "regionCode": "SA",
-         "Low": {
-            "assetValue": 159,
-            "percentagePerAssetValue": 51.7
-         },
-         "Medium": {
-            "assetValue": 147,
-            "percentagePerAssetValue": 47.7
-         },
-         "High": {
-            "assetValue": 2,
-            "percentagePerAssetValue": 0.6
-         }
+      "High": {
+        "assetValue": 200,
+        "percentagePerAssetValue": 7.5
       }
-   ]
+    },
+    {
+      "regionCode": "OC",
+      "Low": {
+        "assetValue": 25,
+        "percentagePerAssetValue": 17.7
+      },
+      "Medium": {
+        "assetValue": 32,
+        "percentagePerAssetValue": 22.7
+      },
+      "High": {
+        "assetValue": 84,
+        "percentagePerAssetValue": 59.6
+      }
+    },
+    {
+      "regionCode": "EU",
+      "Low": {
+        "assetValue": 564,
+        "percentagePerAssetValue": 86
+      },
+      "Medium": {
+        "assetValue": 12,
+        "percentagePerAssetValue": 1.8
+      },
+      "High": {
+        "assetValue": 80,
+        "percentagePerAssetValue": 12.2
+      }
+    },
+    {
+      "regionCode": "SA",
+      "Low": {
+        "assetValue": 159,
+        "percentagePerAssetValue": 51.7
+      },
+      "Medium": {
+        "assetValue": 147,
+        "percentagePerAssetValue": 47.7
+      },
+      "High": {
+        "assetValue": 2,
+        "percentagePerAssetValue": 0.6
+      }
+    }
+  ]
 }

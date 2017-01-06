@@ -1,39 +1,39 @@
 {
-    "fundName": "Fund Name 1",
-	"country": "FR",
-	"rad": "L",
-	"legalEntities": [
-	 	{
-	 		"name": "LegalEntity1",
-	 		"type": "Other Financial Institution",
-	 		"nature": "Legal",
-	 		"peps": [
-	 			{
-		 			"firstName": "Toto",
-		 			"lastName": "Van Der Meulen",
-		 			"role": "Administrator",
-		 			"country": "LU"
-	 			},
-	 			{
-		 			"firstName": "Titi",
-		 			"lastName": "Dooren",
-		 			"role": "ShareHolder",
-		 			"country": "BE"
-	 			}
-	 		]
-	 	},
-	 	{
-	 		"name": "LegalEntity2",
-	 		"type": "Other Financial Institution",
-	 		"nature": "Legal",
-	 		"peps": [
-	 			{
-		 			"firstName": "Tutu",
-		 			"lastName": "Vonckens",
-		 			"role": "ShareHolder",
-		 			"country": "FR"
-	 			}
-	 		]
-	 	}
-	]
+  "fundName": "Fund Name 1",
+  "country": "FR",
+  "rad": "L",
+  "legalEntities": [
+    {
+      "name": "LegalEntity1",
+      "type": "Other Financial Institution",
+      "nature": "Legal",
+      "peps": [
+        {
+          "firstName": "Toto",
+          "lastName": "Van Der Meulen",
+          "role": "Administrator",
+          "country": "LU"
+        },
+        {
+          "firstName": "Titi",
+          "lastName": "Dooren",
+          "role": "ShareHolder",
+          "country": "BE"
+        }
+      ]
+    },
+    {
+      "name": "LegalEntity2",
+      "type": "Other Financial Institution",
+      "nature": "Legal",
+      "peps": [
+        {
+          "firstName": "Tutu",
+          "lastName": "Vonckens",
+          "role": "ShareHolder",
+          "country": "FR"
+        }
+      ]
+    }
+  ]
 }
